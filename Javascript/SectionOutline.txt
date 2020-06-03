@@ -1,8 +1,8 @@
 JAVASCRIPT TYPES
 -----------------
 1. Number 
-2. String
-3. Boolean
+2. String - in quotes
+3. Boolean - true/false
 4. Undefined
 5. Null
 <!-- 6. Symbol (new in ECMAScript 6) -->
@@ -11,8 +11,8 @@ JAVASCRIPT TYPES
 JAVASCRIPT COMPARISONS
 -----------------
 
-!==
-===
+!== - doesn't equal
+=== - equals
 >=
 <=
 >
@@ -26,18 +26,18 @@ var
 
 JAVASCRIPT CONDITIONALS
 -----------------
-if
-else
-else if
+if - if ...
+else - if not ...
+else if - or if ...
 <!-- ternary operator -->
 <!-- switch -->
 
 
 JAVASCRIPT LOGICAL OPERATORS
 -----------------
-&&
-||
-!
+&& - and
+|| - or
+! - not
 
 JAVASCRIPT FUNCTIONS
 -----------------

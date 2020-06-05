@@ -1,6 +1,6 @@
-function sayHello() {
-    console.log("Hello");
-} 
+function multiply(a, b) {
+        return a*b;
+    }
 
-sayHello();
+alert(multiply(3,4));
 

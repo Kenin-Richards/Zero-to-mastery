@@ -6,7 +6,7 @@ JAVASCRIPT TYPES
 4. Undefined
 5. Null
 <!-- 6. Symbol (new in ECMAScript 6) -->
-7. Object
+7. Object - collections of property
 
 JAVASCRIPT COMPARISONS
 -----------------

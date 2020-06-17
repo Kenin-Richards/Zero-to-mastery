@@ -1,8 +1,28 @@
 var user = {
-    name: "John",
-    age: 34,
-    hobby: "Soccer",
-    isMarried: false,
+    userName: "Kenji",
+    password: "Beepboop",
 };
 
-var list = ["apple", "banana", "orange"];
+var timeline = {
+
+};
+
+var database = [
+    userName: "Kenji"
+    password: "Beepboop"
+];
+
+var newsfeed = [
+    {
+        userName: "Jim",
+        timeline: "I like apples",
+    },
+    {
+        userName: "Burrito",
+        timeline: "I want salsa",
+    },
+    {
+        userName: "Gary",
+        timeline: "Yo yo yo",
+    }
+];

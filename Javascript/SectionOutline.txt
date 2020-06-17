@@ -41,8 +41,8 @@ JAVASCRIPT LOGICAL OPERATORS
 
 JAVASCRIPT FUNCTIONS
 -----------------
-var a = function name() {}
-function name() {}
+var a = function name() {}; - function expression
+function name() {} - function declaration
 return
 <!-- () => (new in ECMAScript 6) -->
 

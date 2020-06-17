@@ -53,7 +53,7 @@ Object
 
 JAVASCRIPT LOOPING
 -----------------
-for
+for - most of the time using the for loop
 while
 do 
 forEach (new in ECMAScript 5) 

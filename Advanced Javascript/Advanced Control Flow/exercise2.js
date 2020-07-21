@@ -6,6 +6,11 @@ function experiencePoints() {
         return 1;
     }
 }
+function winBattle(bool) {
+    return bool;
+}
+
+var experiencePoints = winBattle() ? 10 : 1; 
 
 //Using this function, answer the questions below:
 function moveCommand(direction) {

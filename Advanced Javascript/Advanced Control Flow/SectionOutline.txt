@@ -29,8 +29,8 @@ JAVASCRIPT CONDITIONALS
 if - if ...
 else - if not ... - if the previous thing(s) are not true then do this 
 else if - or if ...
-<!-- ternary operator -->
-<!-- switch -->
+ternary operator
+switch
 
 
 JAVASCRIPT LOGICAL OPERATORS

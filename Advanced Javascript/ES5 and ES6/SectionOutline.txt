@@ -1,0 +1,96 @@
+JAVASCRIPT TYPES
+-----------------
+1. Number 
+2. String - in quotes
+3. Boolean - true/false
+4. Undefined
+5. Null
+<!-- 6. Symbol (new in ECMAScript 6) -->
+7. Object - collections of property
+
+JAVASCRIPT COMPARISONS
+-----------------
+
+!== - doesn't equal
+=== - equals
+>=
+<=
+>
+<
+
+JAVASCRIPT VARIABLES
+-----------------
+var
+let (new in ECMAScript 6) - used instead of var
+const (new in ECMAScript 6) - short for constant. You are not able to reassign this variable to something else
+
+JAVASCRIPT CONDITIONALS
+-----------------
+if - if ...
+else - if not ... - if the previous thing(s) are not true then do this 
+else if - or if ...
+ternary operator
+switch
+
+
+JAVASCRIPT LOGICAL OPERATORS
+-----------------
+&& - and
+|| - or
+! - not
+
+JAVASCRIPT FUNCTIONS
+-----------------
+var a = function name() {}; - function expression
+function name() {} - function declaration
+return
+<!-- () => (new in ECMAScript 6) -->
+
+JAVASCRIPT DATA STRUCTURES
+-----------------
+Array
+Object
+
+JAVASCRIPT LOOPING
+-----------------
+for - most of the time using the for loop
+while
+do 
+forEach (new in ECMAScript 5) 
+
+
+JAVASCRIPT KEYWORDS
+-----------------
+break
+case
+catch
+class
+const
+continue
+debugger
+default
+delete
+do
+else
+export
+extends
+finally
+for
+function
+if
+import
+in
+instanceof
+new
+return
+super
+switch
+this
+throw
+try
+typeof
+var
+void
+while
+with
+yield
